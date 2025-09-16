@@ -1,3 +1,3 @@
-first_number = input("Введите первое число")
-second_number = input("Введите второе число")
+first_number = int(input("Введите первое целое число"))
+second_number = int(input("Введите второе целое число"))
 
